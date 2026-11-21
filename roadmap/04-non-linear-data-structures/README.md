@@ -1,3 +1,21 @@
 # Non-Linear Data Structures
 
-Planned topics: trees, binary search trees, heaps/priority queues, tries, graphs, and disjoint set union.
+- **Trees**
+  - Binary trees and tree terminology
+  - Preorder, inorder, postorder, and level-order traversal
+  - Depth-first search and breadth-first search
+- **Binary Search Trees**
+  - Search, insertion, and deletion
+  - Minimum, maximum, and tree height
+  - Balanced and unbalanced trees
+- **Heaps and Priority Queues**
+  - Min-heaps, max-heaps, and heap construction
+  - Heap operations and top-K applications
+- **Tries**
+  - Prefix trees, insertion, lookup, and autocomplete
+- **Graphs**
+  - Directed, undirected, weighted, and unweighted graphs
+  - Adjacency lists and adjacency matrices
+  - Traversal, connectivity, and cycle detection
+- **Disjoint Set Union**
+  - Find, union, path compression, and union by rank or size
