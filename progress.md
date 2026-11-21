@@ -6,7 +6,7 @@ A record of completed problem solutions and the techniques used.
 
 | # | Problem | Area | Technique | Time Complexity | Auxiliary Space |
 |---:|---|---|---|---|---|
-| 1 | [Sum of Even Numbers](problems/01-linear-data-structures/arrays/01_sum_even_numbers.py) | Arrays and Lists | Traversal, filtering, accumulator | O(n) | O(1) |
+| 1 | [Sum of Even Numbers](roadmap/01-linear-data-structures/arrays/01_sum_even_numbers.py) | Arrays and Lists | Traversal, filtering, accumulator | O(n) | O(1) |
 
 ## Concepts Demonstrated
 
