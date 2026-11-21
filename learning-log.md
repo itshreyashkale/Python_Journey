@@ -1,22 +1,24 @@
 # Learning Log
 
-This file tracks actual progress through the Python DSA course.
-
 ## Current position
 - Phase: 00 — Foundations
-- Lesson: Not started
-- Completed problems: 0
+- Completed through: Lesson 2 — How to Approach a Problem
+- Next: Lesson 3 — Brute Force and Optimization
+- Completed problems/exercises: 1
 
 ## Completed lessons
-None yet.
+- Lesson 1: What is DSA? — Understanding check passed.
+- Lesson 2: How to Approach a Problem — Sum of even numbers exercise completed.
 
-## Problems solved
-None yet.
+## Problems and exercises solved
+| Exercise | Pattern | Time | Auxiliary Space |
+|---|---|---|---|
+| Sum all even numbers in a list | Traversal + filtering + accumulator | O(n) | O(1) |
 
 ## Patterns learned
-None yet.
+- Identify input, expected output, and conditions before coding.
+- Traverse a list once and process only elements that satisfy a condition.
+- Use an accumulator to build a running result.
 
 ## Revision queue
-None yet.
-
-> This log is updated after lessons and problems are completed. Planned topics are not marked complete merely because they appear in the roadmap.
+- Revisit how to describe a problem's input, output, and condition in plain English.
