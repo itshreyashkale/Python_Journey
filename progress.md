@@ -1,16 +1,15 @@
-# Problem-Solving Progress
+# Progress
 
-A record of completed problem solutions and the techniques used.
+## Current Focus
+Foundations
 
 ## Solved Problems
 
-| # | Problem | Area | Technique | Time Complexity | Auxiliary Space |
+| # | Problem | Topic | Pattern | Time Complexity | Auxiliary Space |
 |---:|---|---|---|---|---|
-| 1 | [Sum of Even Numbers](roadmap/01-linear-data-structures/arrays/01_sum_even_numbers.py) | Arrays and Lists | Traversal, filtering, accumulator | O(n) | O(1) |
+| 1 | [Sum of Even Numbers](00-foundation/arrays/01_sum_even_numbers.py) | Arrays | Traversal, filtering, accumulator | O(n) | O(1) |
 
-## Concepts Demonstrated
-
-- Sequential traversal of a list
-- Conditional filtering with the modulo operator
-- Accumulating a result in a single pass
-- Analyzing time and auxiliary-space complexity
+## Concepts Covered
+- Data structures and algorithms
+- Identifying problem input, expected output, and conditions
+- Traversal, conditional filtering, and accumulation
