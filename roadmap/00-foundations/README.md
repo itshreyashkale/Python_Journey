@@ -1,14 +1,11 @@
 # Foundations
 
-This folder contains the introductory DSA material.
-
-Planned lessons:
-1. What are data structures and algorithms?
-2. A repeatable problem-solving framework
-3. Brute force before optimization
-4. Counting operations and input growth
-5. Time complexity and Big O
-6. Space complexity and auxiliary space
-7. Complexity trade-offs
-
-Each lesson will be added after we study it together.
+- Data structures and algorithms
+- Understanding problem statements, inputs, outputs, and constraints
+- Breaking problems into smaller steps
+- Brute-force approaches and optimization
+- Counting operations and understanding input growth
+- Time complexity and Big O notation
+- Best-case, average-case, and worst-case analysis
+- Space complexity and auxiliary space
+- Time-space trade-offs
